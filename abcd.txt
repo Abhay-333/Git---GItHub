@@ -1,1 +1,2 @@
 the is random text here
+This is line 2 
